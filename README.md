@@ -20,7 +20,9 @@ https://cdn.rawgit.com/mark-craig/frame-4orum/ea5d1df9/bundle.js
 * Use a specific tag or commit hash in the URL (not a branch). Files are cached permanently based on the URL. Query strings are ignored.
 * The catch: this is a free service, so there are no uptime or support guarantees.
 
-# Demo Usage
+# Demo
+https://jsfiddle.net/Lwk3adcr/
+# Usage
 In the html for a given page:
 ```
 <div id="4orum-plugin"></div>
