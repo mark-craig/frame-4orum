@@ -21,7 +21,8 @@ https://cdn.rawgit.com/mark-craig/frame-4orum/ea5d1df9/bundle.js
 * The catch: this is a free service, so there are no uptime or support guarantees.
 
 # Demo
-https://jsfiddle.net/Lwk3adcr/
+https://jsfiddle.net/Lwk3adcr/1/show/
+
 # Usage
 In the html for a given page:
 ```
