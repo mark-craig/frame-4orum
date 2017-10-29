@@ -23,7 +23,7 @@ https://cdn.rawgit.com/mark-craig/frame-4orum/ea5d1df9/bundle.js
 # Demo
 https://jsfiddle.net/Lwk3adcr/1/show/
 
-# Usage
+# Usage: How to embed this in your website
 In the html for a given page:
 ```
 <div id="4orum-plugin"></div>
