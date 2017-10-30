@@ -1,13 +1,15 @@
+# frame-4orum
+A JQuery script that embeds an iframe of the comments-4orum Django app into a given page.
+
 # Usage: How to Embed a 4orum Comment on your Website
-In the html for a given page, put the following two lines where you want your comment section to exist.
+In the html for a given page for production purposes, put the following two lines where you want your comment section to exist.
 ```
 <div id="4orum-plugin"></div>
 <script src="https://cdn.rawgit.com/mark-craig/frame-4orum/ea5d1df9/bundle.js"></script>
 ```
+Replace "https://cdn.rawgit.com/mark-craig/frame-4orum/ea5d1df9/bundle.js" with "https://rawgit.com/mark-craig/frame-4orum/master/bundle.js" for development purposes.
 
-# frame-4orum
-A JQuery script that embeds an iframe of the comments-4orum Django app into a given page.
-
+# About
 *plugin.js* is the editable code. Build *bundle.js* via browserify with the command:
 ``
 browserify plugin.js -o bundle.js
