@@ -1,5 +1,5 @@
 # frame-4orum
-A JQuery script that embeds an iframe of the comments-4orum Django app into a given page.
+A JQuery script that embeds an iframe of the [comments-4orum](https://github.com/gigibyte927/comments-4orum) Django app into a given page.
 
 # Usage: How to Embed a 4orum Comment on your Website
 In the html for a given page for production purposes, put the following two lines where you want your comment section to exist.
