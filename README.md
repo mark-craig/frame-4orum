@@ -1,3 +1,10 @@
+# Usage: How to Embed a 4orum Comment on your Website
+In the html for a given page, put the following two lines where you want your comment section to exist.
+```
+<div id="4orum-plugin"></div>
+<script src="https://cdn.rawgit.com/mark-craig/frame-4orum/ea5d1df9/bundle.js"></script>
+```
+
 # frame-4orum
 A JQuery script that embeds an iframe of the comments-4orum Django app into a given page.
 
@@ -22,10 +29,3 @@ https://cdn.rawgit.com/mark-craig/frame-4orum/ea5d1df9/bundle.js
 
 # Demo
 https://jsfiddle.net/Lwk3adcr/1/show/
-
-# Usage: How to embed this in your website
-In the html for a given page:
-```
-<div id="4orum-plugin"></div>
-<script src="https://rawgit.com/mark-craig/frame-4orum/master/bundle.js"></script>
-```
